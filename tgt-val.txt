@@ -1,0 +1,1000 @@
+Double Distribright right Noop
+Flipright left right left right Noop
+left right Assocright left right right Distribleft
+Distribright left Distribleft right Distribleft
+Distribright left left Double
+left right Noop
+right Flipleft
+left left right right Noop right Assocright
+Assocright right right left Flipright
+left Flipright left left Flipleft
+Flipright left Transpose left right left Distribleft
+Flipright
+left Noop right right right Distribright
+Distribleft left left Commute
+left left right Double
+left Assocright
+left left Distribleft left left left left Noop
+left left right Noop right Distribleft right left Assocright right right left Noop
+left Distribleft
+Flipright left left Commute
+Assocleft
+Flipright right Flipright
+Double
+left Assocright right left left right Noop
+Flipleft left right Factorleft
+left Distribright left left Assocleft left left left Commute left right Assocleft left right left right Cancel
+left Flipright right left Commute right left right Noop
+Flipright
+Flipright right right Distribleft
+left Distribleft left left Assocright left left right right Noop left right Assocright right left right Cancel
+left left Assocleft
+Distribright right left Commute
+right left left Cancel right left Assocleft
+Double
+left left Commute left right right Distribright right Distribright
+Transpose
+Assocleft left Distribright left left Assocleft left left left Assocright left right Assocleft
+Distribleft right Assocright
+left left left Cancel
+Flipleft left right Noop
+left Commute left right Noop right Flipright right left right right Commute
+Assocleft left left left Commute
+left right Flipright right Flipleft
+left left Commute left left right Factorright left right Distribleft left right left left Commute
+Distribleft left right Commute
+Distribleft left Assocright left right right Double
+Commute left Commute right Double
+Distribleft left Commute left right Distribleft right Noop
+right right Distribleft right right left Commute
+Assocright right left Noop right right Flipleft
+Assocright right right Distribleft
+right Assocright right right left Noop
+right Distribright right left Assocleft right left left right Noop
+left Flipleft right Assocright right right Assocright
+left Assocright right Flipright
+Distribleft left Distribleft left right left Noop
+Distribright left left Noop right left Noop
+Commute left Distribright right Distribleft right left Distribright
+Distribleft right left Assocright
+right left left left Commute
+left right right Noop right Distribright right right Noop
+Flipleft left Distribleft
+left Distribright
+Flipleft left left right Cancel
+Flipleft left right Noop
+right right Noop
+right left Commute
+left left Commute left left left Flipleft left right Transpose right Distribleft right left Transpose
+Distribright left left Flipleft right left Flipleft
+left Flipright
+right Noop
+left Distribleft left left left Distribleft left right Flipright
+right left Distribright right right Flipleft
+Flipright left left Commute right right left Noop
+left Distribright right Distribleft
+right Cancel
+left right left Commute
+right left Distribright
+left Transpose left right left Assocright
+Flipright left right right Noop right right left Distribright
+right right Double
+left left Transpose right Transpose
+right left left Distribleft right left left left Noop
+left Assocleft right Double
+left left right Distribright left right Noop left right Distribleft right Distribleft right left Distribleft
+right Double
+Distribleft left right Assocright
+Double Factorleft right Noop
+Flipright left left left right Cancel left left left left Cancel
+right Distribleft right left left Commute right right left left Cancel
+left Cancel
+left Transpose left left left left Noop left right left Factorright
+Distribleft left right right right Commute right left left Noop right right right right Commute
+left Distribleft left left Distribright left right Distribright left right left Commute
+left right Distribleft
+right left Transpose
+Assocright right Assocright
+left Commute right right Distribleft
+left right Distribleft left right right Noop right left Distribleft right right Assocright right right left Commute
+Flipright
+left Distribright left left Assocleft left right Assocleft
+Distribright right Distribleft
+Double
+right left Distribleft
+Flipright left Commute left left left Factorleft right Distribleft right right right Flipleft
+Flipright right left Distribleft right left left right Noop right left right right Noop
+left Flipright
+Flipright right Flipright right left Distribleft right left right Assocright
+Distribleft left Assocleft left left Assocleft right Assocleft
+left left Assocright
+left left Cancel right Double right left Noop right right Noop
+left right left Distribright left right left right Commute
+Flipright
+right left right right Cancel
+Flipright left Transpose right right Transpose
+Assocleft
+Flipright left Double
+left Distribleft
+Flipright left Assocleft right right left Distribright
+right left Distribleft right left left Distribleft
+left left Flipright right Distribright
+Flipright left Distribleft left left Assocright
+left Distribright right Assocleft right left right Double
+Assocright right Transpose
+left Flipright right Noop right left Distribleft
+left left Assocleft right left left Distribleft
+Assocright right Noop
+Transpose left right left right Double
+left Flipright left left Commute right Distribleft
+left Assocleft left right Commute
+right left left Noop
+left Distribleft left left Commute right left left right Commute
+Commute right Distribleft right left right left Commute
+left Flipleft right Noop
+left left Commute
+Flipright right left Flipright
+Assocleft left Commute right left Noop
+left left right Noop right Commute
+Transpose
+right Commute right right left Commute right right left left Commute
+left left Flipright left left right Noop
+left left left Assocright
+Distribright right Distribright right right right Distribleft
+Distribleft left Distribright left right Distribright right Distribright right left left left Cancel
+Transpose
+left left left Commute
+Commute left Distribleft right right Flipleft
+left Transpose
+Assocleft left Noop left Flipleft
+left right right Flipleft
+Assocleft left Assocright right Double
+Distribleft left Flipright right right Flipleft
+left right Distribleft left right right Flipright right left left left Cancel
+right right Commute
+left left Cancel right Flipleft right left Noop
+right Flipleft right right right Noop
+right left left Cancel right left right Factorright right left right left Noop
+right left Noop right left Assocleft right right right Noop
+Flipright right Noop
+left right Distribright left right left Commute right right Commute
+left Flipright left right left Distribleft
+left Assocleft left left Distribright
+Flipright left Transpose right left right Distribleft
+Distribright left right left Flipright right Distribright
+Assocleft left right Flipright left right left Flipright
+Assocright right Assocleft
+Distribright left left left Commute right left Distribleft
+right Distribright right left Assocright right right right right Cancel
+Commute right Assocleft right left left right right Noop
+left left Distribright left left right Commute left right left Noop
+right Distribleft right left Assocright right right Assocright
+left Flipright left left Distribleft
+Distribleft left Assocleft right left right Cancel
+left Assocright left right Commute left right left Distribleft
+right Distribright right right right Distribleft
+right Distribright
+left left right Flipright right Assocright right left Commute right right Distribleft
+left right Noop right Distribleft right left Assocleft right right Noop
+right left Assocleft right left left Distribright right right Assocleft
+Commute
+left right Double
+right right Commute right right left Commute
+left Double
+left left left Flipright left left right right Cancel left left right Noop
+Flipleft
+Distribleft
+right Assocleft right left Assocleft right left left Commute
+left Noop
+Distribright left left left Distribleft right left left left Noop
+Assocright right Transpose
+left Distribleft left left left left Noop left right Distribright left right left left Noop
+right Flipright
+Transpose left left Distribright right left left Distribright
+left left Flipleft left right left left Noop
+right Noop right Flipleft
+left left Noop
+Noop right right Distribleft right right left Flipright right right right right Noop
+left left left Noop left right Transpose
+left Assocleft left left right Commute
+left left Distribleft left left right right Noop
+left left Distribleft
+Transpose left left Distribright left left right Assocleft left left right left Noop right left right Assocright
+left left right Distribright
+left left Cancel right Distribleft right left left left Noop
+left left Factorleft
+Distribleft left right left Commute right Flipright right right Assocleft
+Assocright right left Distribright
+left Double right right left Factorleft
+Distribright left Assocright left right Noop right Assocright right right right Flipleft
+left Distribleft left right Flipright right left Assocleft
+left left left right Cancel
+left left Flipleft left right Distribleft
+left left left left Noop right left left left Cancel
+left left left Noop left right Flipright left right right Noop
+Flipright left left left Noop left left right Flipright right right Commute
+Double right Factorright
+Assocleft left right Cancel left Distribleft
+right Distribright right left right Cancel right left Noop right right Assocright
+left Assocright left right left left Commute
+left Transpose
+Assocleft
+left Flipright right right right Noop
+right left Assocleft right left left Commute right right Distribleft right right left Assocright right right right Assocright
+left right Distribright left right left Assocleft left right right Assocleft
+Commute left Distribright
+left Noop
+right left Assocright
+left Flipleft right left Distribright right right Commute
+Distribright left Distribleft left right Distribright right Distribleft
+left Flipright right Noop
+Flipright left right Distribright
+left left Distribleft left left right left Cancel left right Flipleft right Distribleft
+Transpose left left Flipleft
+right Flipleft
+Transpose
+Flipright left Distribleft
+Flipright left right Flipright right Flipright
+left Noop right Distribright
+Double
+left Flipright
+left Flipright left right right Flipright right right Commute right right left Assocright
+right right Distribright
+Flipright right Assocleft
+right Cancel left left left Double
+Noop left Commute
+Flipright right Noop
+left left left Flipright left left left right Noop left right Noop
+left Distribleft left left right left Cancel left left right Noop left right right left Cancel left right right Noop
+Double right right Noop
+right Flipright
+right Assocright right right left left Noop
+left right left Distribleft left right right left Noop
+Flipright right left right Noop right right right Distribleft
+left Commute left right left Distribright
+left left left Noop right left Flipright right left right Factorright
+Transpose
+Distribright left left Double right Distribright right right Assocleft right right left left Double
+right left right left Cancel right right Assocleft right right left Assocright
+left Assocright right left Factorright
+Flipright left Flipright
+left left Flipright
+left left Cancel left Flipright
+left Flipleft left right Distribleft
+Distribleft left right left Flipleft right right left Flipleft
+left right left Noop
+left Distribleft
+Commute left Flipright right Assocleft
+left Distribleft left left Flipright left right Flipright
+Assocright right Noop
+Distribleft left Flipright left right Flipright
+Distribleft left right Flipleft right Commute right left Flipleft right right right Factorleft
+left Commute left right right left Noop right right left left Commute
+left Assocright right Double
+Assocright right left Distribright right left left Assocleft
+left Noop
+Distribright left left left Flipleft right right right Distribleft
+Distribleft
+right Flipright right right left Factorleft right right right right Cancel
+left Assocleft left left right Noop right Flipleft right left Distribright
+Noop right Distribleft right left right Flipright
+Distribleft right left left Factorleft right right left Flipright
+Noop Commute
+left left Noop right left left Assocright right left right Distribleft
+left Distribleft left left Flipright right left left Assocleft
+left Assocleft right left left Distribleft
+left left Cancel right right Flipright
+left left left Cancel right Distribleft
+right Assocleft
+left left left Noop
+right left Commute right left left right Cancel right left left Commute right right left left Commute
+right right right Cancel
+Flipleft right right left Commute
+left Flipright right Flipright right left Flipright
+right right right left Noop
+right left left Factorleft
+left right right right Noop
+Double
+left Transpose
+Flipright left left right Distribleft right right Distribleft right right right Noop
+right Flipright
+left right Distribleft right Transpose
+left right left left Cancel right left right Distribleft right left right left Commute
+Distribleft left left Noop right Commute
+Assocleft left right Noop
+Commute left right right right Noop
+Distribright right Distribright
+right Distribright right left right Cancel right left Commute
+Distribleft left left Flipright right left left Noop
+Distribleft left Transpose right Transpose
+Assocleft left Noop right Distribright right left left left Noop right right left left Noop
+Assocright left right left Noop
+right Distribright right left left Cancel right right left Cancel right right Assocleft
+right left right Noop
+left right Assocleft right left left Factorleft
+left left Cancel
+left right right right Noop
+right right Commute right right left Commute
+right Flipright right left right Commute right right right Noop
+left Distribleft left left left Distribright left left left left left Cancel left left left right left Cancel right Flipleft
+left left left Commute
+left Distribleft left right Transpose
+right left Cancel
+Flipright right left left Noop right right right Factorright
+left right Commute
+left left Cancel
+Commute left left Distribright left left left Assocleft
+left Assocleft right left right Cancel
+left Distribleft
+left right Noop right Distribright
+left Flipright right Noop
+left Distribright left left Assocleft left right right Distribright
+left left left left Cancel
+Distribleft left Flipright right Distribleft right left Flipright
+Distribleft left Distribleft left right left Distribleft left right left right Noop right Distribleft
+left right Factorright right Commute
+Flipright right right Distribleft right right left right Flipright right right right right Flipright
+left left right Distribleft right left left Assocleft
+left right Cancel left Noop left Flipleft right Noop
+Flipright left left right Distribleft
+left Assocleft left left right Flipright right left left Distribright
+right Distribleft right right Distribleft right right right Commute
+left Commute right right Flipleft
+right Flipright
+right left Distribright right left left left Noop right left right left Noop
+left left Distribright left left right right Noop left right Noop right left left left Noop right left right Noop
+Assocright left left Noop right Noop
+left left Commute right Flipleft
+Commute right right right Cancel
+Assocleft left Noop
+left Flipleft left left Commute right left Commute right left right Noop
+left Distribright left left left right Cancel left right left right Cancel
+Distribleft right Distribleft
+left Assocright right Assocleft right left right Noop
+right right right Flipright
+right left right Assocright
+left Flipright right right left Commute
+Distribright left Distribleft
+left right Cancel left Noop right Noop
+Transpose
+Flipright
+left Flipright left left left left Cancel left left left Noop
+right left Transpose
+Transpose
+left Commute left left Distribleft left right Commute
+right left Flipleft
+left left left Flipleft right left Factorleft
+left Cancel
+right left Assocleft
+left Assocleft left left right left Cancel
+Flipleft right Factorright
+Commute
+left Noop right left Commute
+Flipleft right Assocleft right left Assocleft
+Double right Noop
+right Flipright right right Factorleft
+left left left Factorleft
+left Distribleft right Noop right left Distribleft
+right right Commute
+left Distribright right Assocright right right Noop
+left left left Cancel right left Distribright right left left Assocleft
+Distribleft right left Distribleft
+left Flipleft
+left left left Assocright
+right Distribleft right right left Noop
+Distribleft right Noop
+Commute left left right Double right left Assocleft right right right Flipright
+left Flipright left right right Cancel right Flipright
+Flipleft
+left Flipright
+right left Noop right left left Noop
+right left right Cancel right left Distribleft right left right Noop
+Flipright left left Distribright left left left Assocleft
+Assocleft right Distribleft
+Flipright left Flipright right left Factorleft right right right right Noop
+Commute left right right Cancel
+Transpose left right left Commute left right left right Noop
+left Flipleft right left right Distribleft right left right right Noop
+Flipright right right Cancel right left left Factorright
+right Distribright right left Transpose right right Transpose
+Assocright right left Distribleft
+Assocleft left Assocleft left left Commute left left right right Commute
+left left left Commute left left left left Noop
+left Distribleft right right Distribright right right left Assocleft
+right right Distribright right right left Commute
+Assocleft left Assocright left right Commute
+right left Noop
+Assocright right right Assocright
+right left left right Commute
+Distribleft left Assocright right Transpose
+right Cancel Noop Commute
+left Flipright left left left right Commute right right Noop
+Commute left left Distribleft left left left left Cancel
+left right Flipleft
+left Flipright
+Double Transpose
+right right Flipleft
+left Transpose right Distribleft right right Assocright
+right left Distribleft right left left Noop right left right Assocright
+Distribright left left left Commute right left left Noop right right Flipright
+Distribleft right Distribright right left Distribright
+left Assocleft
+left right Cancel left Noop
+Commute left Flipleft
+left Commute right Flipright right right right Commute
+left left right Distribleft
+Assocleft left Assocright
+Flipleft right Noop
+Flipright left left Double
+Assocright left Flipright right Assocright
+left right Flipleft
+left Flipleft left right Commute
+Distribright left left right Noop right Distribleft
+Flipright right left Distribleft right left left left Cancel right left left Noop right left right Commute
+Assocright left left Noop right Assocright
+Flipleft
+Distribright left Assocleft
+Distribleft left right Flipright right left right Noop right right Flipright
+Assocright right right Transpose right right left left Noop
+Commute left Distribright left left left Commute left right Assocright right left right Factorleft
+left left left Cancel
+left Commute right left left Noop
+Assocright left right Noop
+Flipright left Assocright right left Distribleft
+Commute left Distribright left right right Flipright
+left left left Assocright right Assocright
+Assocright right left Noop right left Transpose
+Commute
+Commute left right right right Noop
+right right Cancel
+Assocleft left left right Commute left right left left Noop right Assocleft
+left Distribright right left Double
+left right left Cancel
+Transpose
+Double
+right Commute right left left Noop
+Distribleft left Distribleft
+left right left Assocleft left right left left left Noop left right right Assocleft
+right left left right Cancel right right Double
+Assocleft left left Distribleft right right right Cancel
+left Assocright left left Factorleft left right Assocright
+left right Distribright
+left Distribright left left Noop left right Assocright
+left Double right left Distribright right left left Assocright right left right Assocleft right left right left left Noop
+Flipright left right Commute right right Assocleft
+Transpose
+Distribright left right right Cancel left right left Distribleft right Commute right left Commute
+left Distribleft left right Assocright
+Distribright left right Assocleft left right left Noop right left Distribleft right left left Distribright
+Assocleft left right right Distribright
+Flipright
+right Flipright
+right left Distribright right left left Distribright right left right Distribright
+left left Distribleft left left left Flipright left left left right Noop
+right Transpose right left left left Noop
+Assocleft left Assocleft right right Distribleft
+left Distribright left right right Distribright right Noop
+right Distribright
+Assocright right Assocleft
+Flipright right Flipright
+Distribleft right right Flipright
+Flipright right left right Cancel right left Noop
+left right Flipright
+left Assocright left right Commute left right right Distribright
+Flipright
+left left right Noop left right Commute left right right Commute left right right right Commute
+left Distribleft left left Assocright left right Assocright
+left left Distribright left left left Assocleft left left right Assocleft
+left Assocright left right right left Cancel
+Flipright left Flipright
+Flipright left right Transpose
+left Distribleft right left right Cancel right right Commute right right right Noop
+Distribleft left Transpose right Transpose
+Commute left Distribleft right right left left Commute
+left Commute
+right left Distribright
+left Double right left right right Noop
+left Noop
+left Transpose
+Distribleft left right Transpose right Distribleft right left Assocright right right Assocleft
+right Assocleft
+Flipright left left left right Noop
+left Distribleft right left Noop right right left Noop
+left right Assocleft left right left Commute
+left left right Commute right Flipright right left Flipright
+right Distribright right right right Distribleft
+right left Distribright right left right Assocleft
+left Commute left right right Noop
+left Cancel Distribright
+Flipright
+Assocright
+Commute
+left Assocright left left Distribleft left left left right Cancel left left right right Cancel
+Assocright
+Distribleft right left Distribright
+Flipright
+Double Distribright left left Transpose right Assocright
+Transpose left right left left Cancel left right left Noop
+Commute left Flipright right left right right Cancel
+Assocright left right Transpose right right Transpose
+left left right right Noop
+right Distribleft
+Assocright right right Assocleft right right right Distribright
+Flipright right Flipright right right Flipright
+left Flipright left right Flipright right left left left Commute right left right Commute right right Assocleft
+left left left Noop
+right left Distribleft
+left Commute right left Factorleft right right Commute
+left right right Commute right Flipright right left Flipright
+Distribleft left Distribright right Distribleft right right Noop
+left right Distribright left right left right Commute
+left left Flipright left right Distribright left right left Assocleft
+Assocright right left left Distribright right left right Assocleft
+right right right Double
+left Flipright right Distribright right left right Distribleft
+Flipright right left left left Noop
+left left Noop left right left Distribleft right right right Distribleft
+Assocleft left left Distribright right right Commute
+left Transpose
+right left left Factorright right right Assocright right right right Commute
+right Noop
+Commute left Double right Double
+Assocright right left right Factorright
+Assocleft left Noop left Flipright left right Noop
+left Commute
+right Transpose
+Distribright left left right Noop
+left Transpose
+left Distribright left left Assocright left left right Assocleft left left right left Noop right Commute
+left left left Cancel right Assocright
+Flipright left Distribright right Distribleft
+left Flipright left left right Distribright
+left left Factorleft right left right left Cancel right left right right Cancel right right Assocleft
+left right Distribleft left right right left Cancel
+Flipright right right Assocright right right right Commute
+Commute
+left Double
+left Commute left left Flipright
+Distribright right Distribright
+left left Distribleft left left right Commute
+left Flipright left right Distribleft
+left right left Distribleft left right right Noop
+right right Assocright
+left Commute
+left Noop left Distribleft right left left Noop
+left left Distribleft left left left left Cancel right Flipleft
+Commute left left left Commute left right Distribleft left right right Distribleft right Distribright
+Assocleft left left Commute left right Assocleft
+right Assocright
+Double Commute right Noop
+left Distribleft left left Distribright left right Distribright left right right right Noop
+right Cancel
+Commute right Flipright right left Flipright
+Assocright left right Assocright right Commute right left right right Noop right right Noop
+left left left Noop left left right Noop
+left left Assocright left right Noop
+right left Flipright
+left Assocleft
+left left left Noop left left right Assocright right right Double
+left Distribleft
+right left Factorright
+Commute left left right Commute left right left Factorleft right Commute
+left right left Cancel left right right Cancel
+left Noop right right Factorright
+Distribleft right Assocleft
+Distribleft left Distribleft
+Flipright left left Distribright right Flipright
+Distribleft left right Distribright left right right Noop right right Noop right right Commute
+Flipleft
+Flipleft left Flipright
+Distribright left left left Cancel right left left Cancel
+Distribleft left right Double
+Transpose left left right Factorright
+left left left Commute left right Flipright left right right Noop
+left left right Factorleft right left Flipleft right right right Factorright
+left left Assocleft left left left right Noop right left Transpose
+Commute
+Flipleft left Commute left right Flipright
+left left Commute left left right Distribright right Assocleft
+right right Assocleft
+Commute
+Distribleft left Distribleft left right Distribright right Distribright
+left Assocright left right Assocleft left right left Assocleft left right right left Cancel
+Assocleft
+left left right Flipright left right Commute left right right Distribleft
+Commute
+left left left Noop right Commute
+left Commute left right right Commute
+Flipright left Flipleft right right Commute
+Assocleft
+Flipright right right right Noop
+Transpose left left Double
+Distribleft left Flipright left left left Commute right Flipright
+left left right Commute right Assocleft
+left right right Commute right right Noop
+Distribright right Assocright right left Flipright
+left Assocleft left left right Cancel right left Factorright
+Commute
+Distribleft right Distribleft
+right left right Assocleft right right Flipright
+right Cancel Distribleft right left left Noop
+left Distribleft right left Distribleft
+Distribleft left Flipright left right right Cancel right Flipright
+Assocleft left Assocleft left left Assocright right Flipright
+left Flipright left right Distribleft right left Noop right left right Cancel
+left Distribleft right Double right Commute
+left Assocright left right Transpose right left Double
+Double left Commute
+left Flipleft left left left Noop right Assocright right right Noop
+left left left Noop left right left Noop left right right Distribright left right right left Commute
+Distribleft left left left Assocleft left left right Noop
+left Noop right Commute
+left right Commute
+Flipright left left Noop
+Assocleft left left left Noop
+left Assocleft
+Distribright right Assocleft
+Assocleft left Assocleft
+Assocright
+right Transpose
+Assocleft left left right Noop right left Assocleft
+Distribright right left left Distribleft right right Commute
+left Noop
+Distribleft left Distribright left right Distribright right right right Noop
+left left right right Noop right left Flipleft
+left Flipright left right Distribleft
+Distribright left Distribright left left Assocleft left right Assocleft right Transpose
+Commute left Distribright left left left Noop left right left Noop right Distribright
+left Flipleft left right right Cancel right Distribleft
+Flipright left Assocleft left left right right Commute right left Noop
+left Flipright right Flipright right left left Cancel right left right Flipright
+right right Assocleft right right left Factorright right right left left Noop
+left Assocright right Assocleft right right Transpose
+Commute left right right Factorleft
+left left Assocright
+Assocleft right left Cancel
+left right left left Noop
+Transpose
+Distribleft left right left Noop
+left left right Assocright
+left left right right Cancel left left right Noop
+left Flipright right Distribright
+Commute left Flipleft
+left left left Flipright left right Commute
+Distribleft left left left Distribright left left left right Commute left left right Commute right right Commute
+left Cancel Noop
+left right right Commute
+Transpose
+left Distribleft left left Assocright
+Flipright left left Commute
+left Flipright
+left Flipright right Double
+Flipleft right Flipright
+left right right Factorright right Assocright
+Assocright right Noop
+Distribleft left Assocleft left left Assocleft
+Flipright right right Distribright
+left Flipleft
+Distribleft
+right left right right Cancel right left right Commute
+right Distribleft right right Distribright right right left right Noop
+right left Double
+Double Distribleft left Transpose
+Distribleft left right Assocleft left right right Noop right right Assocleft
+Distribleft right Distribleft
+Transpose
+left Flipleft
+left Flipleft left left Flipright
+Transpose right left Flipright
+left right left Distribleft right left Flipleft
+left left Commute left left right Noop left right Flipleft right Distribleft
+Distribleft right right Distribleft right right right Assocright
+Distribleft left right Distribleft right right Distribleft
+left Assocleft left left Noop left right Factorright
+Distribright left Assocright left right Noop right Assocright right right Noop
+Flipright right left left Distribleft right right left Commute
+Assocright right Noop
+left Assocleft left left Noop right left Distribleft
+left Flipright right Distribleft
+right Flipleft right left Distribleft
+Distribleft right Assocleft right left Noop
+left Assocleft left left right Assocleft left left right left Noop left right Noop
+Flipright right left Commute
+left Noop right right left Noop
+right left Flipright
+left Flipright left right left Flipright
+right right left right Cancel right right left Commute
+Assocleft left Commute left left Distribleft left left right left Commute
+right Assocright
+right Commute
+Distribright right left Flipright
+Double left Assocleft right Transpose
+left right Noop right Flipleft
+right Distribright right right right left Noop right right right right Noop
+right Assocright
+left right Double right Distribright right left Assocleft
+Flipleft right left Cancel right Transpose
+right right Distribright right right right right Noop
+left Assocleft left left Assocleft left left left Noop
+Assocleft left left Double
+Flipleft left Distribleft right Flipright
+left left Noop
+left left Flipright left right right Cancel left right left Distribright left right left right Noop
+Assocright right Assocleft
+right left Double right right right Assocleft right right right left Commute
+Distribright left right Cancel right right Commute
+Flipright left Commute left right left Commute right left Noop
+left Assocleft left left Commute right right Flipright
+left left Noop
+right Transpose
+Double Noop
+left left right right Cancel left left right Distribleft left right right Distribright
+left Distribright
+left right right Factorright
+Commute right left Flipright
+left left Distribleft left left left Assocright left left right Assocright
+left Assocright left right Distribright left right left Assocleft left right right right right Cancel left right right right Noop
+Distribright left left Flipleft right left Flipleft
+right Assocleft
+left left left right Noop right Flipright
+Flipright left left Distribleft left left left left Noop
+left Distribleft left left Commute right Flipright
+left Flipleft right right left Distribleft
+Distribleft left Flipright right Flipright right right left Distribright
+Flipleft right Distribright right left left Noop
+right left Distribleft
+left Distribright right Flipleft
+Assocleft left Assocright right left right Commute
+Flipright
+right left right left Cancel right left right Noop
+Distribleft left Distribleft left right left Distribleft left right left right Commute
+Flipright right Commute right right Distribright
+left right left Commute right Noop
+left left Assocleft
+Assocleft left right left Distribright
+left left Assocright left left right Distribleft
+left Assocright
+Assocleft left left Assocleft
+left Transpose
+left Assocleft left left right Distribleft left right Distribleft
+left Commute left left right Commute right right right Distribleft
+right Commute
+Flipright left Commute left right left Factorleft
+right Assocleft right left Assocright right left left Distribleft
+Distribleft left Distribleft left left Flipright left right right Noop
+left Assocleft left left Assocright right left Distribright
+left Flipleft right left Commute
+left right right Noop
+left left Cancel left Noop left left left Cancel
+Assocleft left Commute
+left left Noop right left left Noop
+left left Cancel
+left Double right left Transpose
+left right right Distribright left right right left Noop left right right right Commute right left Flipright
+Flipright
+right left Factorright
+Distribleft left right left Flipright right right left right Cancel right right left Noop
+left Distribright left left Distribleft left left right left Cancel left left right Noop left right left right Cancel
+left right Distribleft left right right Assocright
+Transpose
+Flipright left Assocright right right Assocright
+left Flipright
+right Distribleft right left Assocright right right Distribleft right right right Noop
+Flipright left Transpose
+left Assocright left right left Noop right left Assocright
+left Noop left right Factorright right Distribleft
+right Flipleft right right Noop
+left Distribleft right Assocleft
+left Commute left left Commute right left left right Noop right left right Flipright
+left Distribright left right right Cancel
+Flipright left left left Distribleft left left left left Noop
+Assocright left Transpose
+left Distribleft left right left Flipright left right left left Noop
+left Transpose right left Cancel right Noop
+Assocright right Noop
+Distribleft left right Noop right right Noop
+Assocleft left Noop
+Distribleft
+left Flipright
+Double
+Flipright
+Flipright left Distribright left left right Distribright right right Flipleft
+Flipright left Commute left left Assocleft right Noop
+left left Assocleft right right Distribright right right left Commute
+left Distribright left right Assocright
+left Distribleft left left right Flipleft left right right Flipleft
+left Distribleft left left Commute right right Distribleft
+Flipleft
+left left Double right left Assocright right left right right Cancel
+left Transpose
+left Assocright left right Assocleft
+left Distribright left right Commute
+Transpose left right left Double
+left Flipright left left Factorright left left left Noop
+Distribright right right Double
+right left left Factorleft
+left left right right Cancel
+left Transpose right Transpose
+Distribleft left Distribright right left right Commute
+Distribright left Transpose
+Flipright left right left right Cancel right left Distribleft right left right left Commute
+left right left Noop right left left Noop right right Double
+left right right left Commute right Double
+left Flipleft left right Distribright right Distribleft
+left Noop right left Assocleft right left left Distribright
+right left Assocright right left right left Commute right right right Factorright
+left left right Distribleft
+Flipleft right Commute
+left left right Distribleft
+left Flipright left right Factorleft
+Distribleft right right Distribright right right right Distribright
+left Transpose
+left Flipright left left Flipright left left left Assocright left left right Flipright
+right Flipright
+right Flipleft right left Noop right right Transpose
+Flipright left Noop right right left Cancel
+Flipright left Distribright
+left left left right Noop left right Flipright left right left left Noop
+Distribright left Distribright right Distribright
+left Flipright left right left Cancel
+right right Cancel right left right Double
+left Distribleft left left Noop left right right Commute
+Commute left Noop
+Assocleft left left left Factorright left right right Factorleft
+left left right Distribright
+Distribright left left Transpose
+left left Assocleft
+left Distribleft right right right right Cancel right right right Noop
+right Assocright right right Assocleft right right left Noop
+Assocright
+left Cancel right Flipright
+left left Distribleft left left left Assocright left left right Assocright
+left left right Factorright left left right left Noop
+left Commute left left Assocleft left left left Commute left left right Noop
+left right Distribright
+right Assocright right right Assocright
+left Flipleft right Flipright right left Distribleft
+Flipright right Flipright
+left right right Noop right left Assocleft
+Flipleft
+right Flipleft
+Distribleft right left Assocright right left right Commute right right left left Noop
+left Commute
+left Commute right Assocleft
+left Flipright left left Commute left left right Commute
+Flipright left Distribleft right Flipright
+Distribright left right Double
+right left Distribleft
+right right right Factorleft right right right right Noop
+right Flipright
+left right Flipright right Commute right right Commute
+Distribleft left Distribleft left left left Noop right Distribleft right right left Flipright
+left Assocright
+left right Flipright left right right Distribleft left right right left Flipright left right right right Flipright
+Flipright right right left left Cancel
+left Commute right right Distribleft
+right right Cancel right left right Noop
+left Double right left right Noop right right left Cancel
+left Distribright left left Assocleft left right Assocleft
+Distribright left right Commute left right left right Noop left right right Commute
+right Transpose
+Distribleft right right Assocleft
+left left right Factorright right Assocleft right left Assocright right left right Noop
+Distribleft left right left Distribright
+Distribleft left left left Cancel
+Transpose
+Flipright
+right right Distribright
+Flipright left right right Commute
+Distribleft
+left Assocright right right left Assocright right right right Noop
+left Noop
+Assocright
+left Commute left right right Distribleft
+left right Distribleft left right left Flipright left right right Flipright
+Assocleft left Noop left Flipright
+left right right Noop right left Noop
+right left Noop
+left Flipleft right Commute
+left left Flipright left left right Distribleft left right left right Noop right left Noop
+Transpose
+left right left Factorleft right Double
+Distribright right Distribright right right Distribleft
+right Flipright right left Assocleft right right right Noop
+left Distribleft right right Noop
+Distribleft left Distribleft right Distribleft right left Distribleft
+right Flipleft
+right Distribright
+left left Flipleft right Transpose
+Distribleft left right Noop left right right Noop right right Noop right right Distribleft
+Commute right right Flipright
+Commute
+left Assocleft
+Flipright left Flipright left right Commute right left Distribleft
+Commute right left Noop right left Transpose
+left left left Distribleft
+left left Transpose
+Assocright right left Commute right left right Noop right left right Commute
+left Flipright left right left Distribleft
+right left Distribright
+Commute right left Assocleft right left left Commute right left right Commute
+Flipleft right Double
+right left Commute right left left Distribleft right left right Commute right left right right Noop
+left Distribleft left right Assocright right Distribright
+right right Cancel
+left Distribleft left left Flipright left right right Flipright
+Distribleft left Commute left left Flipright right right Flipright
+left left Cancel left Noop right Noop
+right left left Commute
+Transpose
+left Distribleft left left right right Cancel left right left Commute left right right Commute
+left left Factorright left left left Noop
+right Cancel Noop right left left Noop
+right Distribleft right left right Noop right right right Noop
+right right Commute right right left Assocright
+right left right Distribleft right right right Noop
+Distribright left left Distribright left left right Assocleft right left Commute right left left Commute
+left left Noop right left Noop
+left Double
+Flipright left Flipright right Flipright
+Distribright left Distribright left left right left Noop left left right right Commute
+left Cancel Flipright right Flipright
+Distribright left right left Commute
+left left Flipleft left right left Noop
+Transpose left left Factorright
+left Assocleft
+Distribleft right Distribright
+left Distribleft
+Assocright
+left right Flipright
+left right Double right Assocright right left Distribleft right right left left Noop right right right left Cancel
+Flipleft
+left Flipright right Assocright
+right left Transpose
+left right Flipright
+Distribleft
+Distribleft left Distribleft left right Noop right Distribleft
+left Distribleft left left Commute left right Assocleft
+left Flipleft left left right Noop right left Flipright
+Transpose left left left Flipleft
+Distribleft left Assocright
+Distribleft
+left Flipright
+left Distribleft
+left Double
+left Flipright right left right Commute right right left Distribleft
+right Distribright
+Assocleft
+Distribright left Distribleft right Distribleft
+right left Distribright
+right Assocright right right left Distribright
+left Assocleft right right Commute
+Assocright right left Commute
+left left Double
+Flipright right left Flipleft right right right Cancel right right left Noop
+Distribright left Distribleft right Distribleft
+left Flipright left right left Cancel
+left left Flipleft
+left Noop right Flipright right left left Cancel
+Transpose left right left Double
+Flipright right Flipright right left right Distribright
+Distribleft right Assocright right right Distribright
+left left right Distribleft left left right right Commute
+Double left Transpose
+right left Flipleft
+right right left Commute
+Distribleft
+Assocright right Distribleft right right Transpose
+left right Commute left right right left Noop
+Flipright left Transpose
+left Transpose
+Flipleft
+Commute left Noop right Flipright
+right Assocright right left Flipleft
+left Distribright left left Assocright left right Assocright
+Flipleft
+left left Cancel left Noop right Flipright
+left left Distribleft left left left Noop left left right Commute
+Flipright right right Noop
+Commute left Assocright left right Assocleft left right left Noop right Commute
+Transpose left left Transpose
