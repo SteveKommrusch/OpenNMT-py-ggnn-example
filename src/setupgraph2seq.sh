@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [ ! -f final.vocab.pt ]; then
-    echo "Usage: setupgraph2seq.sh dir"
-    echo "       Use final.vocab.pt to initialize graph2seq data"
+    echo "Usage: setupgraph2seq.sh "
+    echo "       Use ./final.vocab.pt to initialize graph2seq data"
     echo "       Sets up OpenNMT files in runs/graph2seq"
     exit 0
 fi
