@@ -4,7 +4,7 @@ The top-level *txt files in this repository provide a quick example of how to us
 
 # Graph input processing end-to-end example
 
-The files in the 3 directories 'data', 'src', and 'runs' demonstrate how to use graph data represented textually with parenthesis with GGNN in OpenNMT (i.e., '(root (child1 2 3) (child2 4 5))'). Files in this format can be generate for various computer languages using [ANTLR4](https://www.antlr.org/).
+The files in the 3 directories 'data', 'src', and 'runs' demonstrate how to use graph data represented textually with parenthesis with GGNN in OpenNMT (i.e., '(root (child1 2 3) (child2 4 5))'). Files in this format can be generated for various computer languages using [ANTLR4](https://www.antlr.org/).
 
 ### Step 1: Install OpenNMT-py and related packages
 Install `OpenNMT-py` from `pip`:
