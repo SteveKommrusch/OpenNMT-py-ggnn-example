@@ -1,6 +1,6 @@
 # OpenNMT-py-ggnn-example 
 
-The top-level *txt files in this repository provide a quick example of how to use the gated graph neural network input for OpenNMT-py. Refer to the [ggnn.md](https://github.com/OpenNMT/OpenNMT-py/blob/master/docs/source/ggnn.md) link for an example use of the files in the top-level directory.
+The top-level *txt files in this repository provide a quick example of how to use the gated graph neural network input for OpenNMT-py. Refer to the [ggnn.md](https://opennmt.net/OpenNMT-py/examples/GGNN.html) link for an example use of the files in the top-level directory.
 
 # Graph input processing end-to-end example
 
@@ -37,45 +37,21 @@ cat env.sh
 source env.sh
 ```
 
-### Step 3: Setup and run seq2seq to generate vocab
+### Step 3: Train and use GGNN model
 ```bash
-cd data
-../src/setupseq2seq.sh antlr_files
-cd ../runs/seq2seq
-# Activate environment if appopriate on your system: conda activate pytorch
-setsid nice -n 19 run.sh > run.nohup.out 2>&1 < /dev/null &
-
-data_path=`/bin/pwd`
-./translate12510.sh 50000
-cd m50000
-for i in 1 2 5 10; do python ../../../src/compare.py --src=pred-test_beam$i.txt --tgt=../tgt-test.txt -v > pass$i.txt; done;
-```
-
-### Step 4: Train and use GGNN model
-```bash
-cd runs/seq2seq
+cd runs/graph2seq
 ../../src/setupgraph2seq.sh
-cd ../graph2seq
-setsid nice -n 19 run.sh > run.nohup.out 2>&1 < /dev/null &
-./translate12510.sh 10000
-cd m10000
-for i in 1 2 5 10; do python ../../../src/compare.py --src=pred-test_beam$i.txt --tgt=../tgt-test.txt -v > pass$i.txt; done;
+setsid nice -n 19 onmt_train --config ggnn.yaml < /dev/null > train.nohup.out 2>&1
+onmt_translate -model model_step_10000.pt -src src-test.txt -output pred-test_beam10.txt -gpu 0 -replace_unk -beam_size 10 -n_best 10 -batch_size 4 -verbose > trans10.out 2>&1
+python ../../src/compare.py --src=pred-test_beam10.txt --tgt=tgt-test.txt -v > pass10.txt
 ```
 
 ## Git file descriptions
  * data/antlr_files/*.txt: Output of [ANTLR4](https://www.antlr.org/) for 10 short programs in C++.
- * src/setupseq2seq.sh: Sets up data files for sequence-to-sequence training in runs/seq2seq. 
- * src/setupgraph2seq.sh: Uses vocab data from sequence-to-sequence run and textual tree data to create OpenNMT GGNN input format.
+ * src/setupgraph2seq.sh: Creates vocab data and uses textual tree data to create OpenNMT GGNN input format.
  * src/raw2graph.pl: PERL script used by setupgraph2seq.sh to generate node, feature, and edge information for OpenNMT GGNN input format.
  * src/compare.py: Used to compare beam search translation output with expected target results. See steps above for example.
- * runs/seq2seq/run.sh: Sets up and runs preprocess and training scripts.
- * runs/seq2seq/preprocess.sh: Uses OpenNMT preprocess to prepare training data including source and target vocabularies.
- * runs/seq2seq/train.sh: Runs training using bidirectional LSMT model on sequence-to-sequence data.
- * runs/seq2seq/translate12510.sh: Runs translation on src-test.txt data with beam widths of 1,2,5, and 10.
- * runs/graph2seq/run.sh: Sets up and runs preprocess and training scripts.
- * runs/graph2seq/preprocess.sh: Uses OpenNMT preprocess to prepare training data using srcvocab.txt and tgtvocab.txt.
- * runs/graph2seq/train.sh: Runs training using GGNN model on graph-to-sequence data.
- * runs/graph2seq/translate12510.sh: Runs translation on src-test.txt data with beam widths of 1,2,5, and 10.
+ * runs/graph2seq/ggnn.yaml: Commented parameters for GGNN run
 
 ## Key generated file descriptions
  * data/raw_initial.txt: 10 example programs generated using ANTLR. The format per lise is "X program Y target", where Y is the target output to be generated, in this case the algorithm's filename.

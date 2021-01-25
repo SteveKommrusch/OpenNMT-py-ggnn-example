@@ -110,23 +110,23 @@ while (<>) {
       print "$graphline[0] ";
     }
     print "<EOT> ";
-    # 104 should match the vocab size limit used in setupgraph2seq.sh
+    # vocab size limit relates to setupgraph2seq.sh
     for ($i=0; $i < $nodes; $i++) {
       @graphline=(split / /,$graph[$i]);
       # Use feature flags to indicate how many edges exist from node
       # This may be helpful as we use different edge types for fanout info too
       if (@graphline == 1) {
-        print "100 ";
+        print "1 ";
       } elsif (@graphline == 2) {
-        print "101 ";
+        print "2 ";
       } elsif (@graphline == 3) {
-        print "102 ";
+        print "3 ";
       } else {
-        print "103 ";
+        print "4 ";
       }
     }
-    # 104 flags aggregation node
-    print "104 <EOT> ";
+    # 5 flags aggregation node
+    print "5 <EOT> ";
     # Edge 0 goes from aggregating node to all others
     for ($i=0; $i < $nodes; $i++) {
       print "$nodes $i ";

@@ -1,0 +1,56 @@
+# For full desciption to setup and use this file, refer to
+# https://opennmt.net/OpenNMT-py/examples/GGNN.html
+
+# save_data is where the necessary objects will be written
+save_data: .
+
+src_vocab_size: 400
+tgt_vocab_size: 20
+
+# Filter long examples
+src_seq_length: 2000
+tgt_seq_length: 10
+
+# Data definition
+data:
+    cnndm:
+        path_src: src-train.txt
+        path_tgt: tgt-train.txt
+        transforms: [filtertoolong]
+        weight: 1
+    valid:
+        path_src: src-val.txt
+        path_tgt: tgt-val.txt
+
+src_vocab: ./srcvocab.txt
+tgt_vocab: ./tgtvocab.txt
+
+save_model: model
+
+# Model options
+train_steps: 10000
+save_checkpoint_steps: 5000
+encoder_type: ggnn
+layers: 2
+decoder_type: rnn
+learning_rate: 0.002
+start_decay_steps: 5000
+learning_rate_decay: 0.5
+global_attention: general
+batch_size: 8
+# src_ggnn_size is larger than sentence vocab plus features to allow one-hot settings
+src_ggnn_size: 300
+# src_word_vec_size less than rnn_size allows rnn learning during GGNN steps
+src_word_vec_size: 16
+# Increase tgt_word_vec_size, rnn_size, and state_dim together
+# to provide larger GGNN embeddings and larger decoder RNN
+tgt_word_vec_size: 128
+rnn_size: 128
+state_dim: 128
+bridge: true
+gpu_ranks: 0
+n_edge_types: 7
+# Increasing n_steps slows model computation but allows information
+# to be aggregated over more node hops
+n_steps: 5
+n_node: 220
